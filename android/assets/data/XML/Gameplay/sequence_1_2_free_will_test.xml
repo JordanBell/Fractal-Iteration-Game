@@ -1,0 +1,20 @@
+<sequence>
+	<profile_system/>
+
+	<w>1000</w>
+	<t speed="2.0">Loading free-will test</t><t speed="0.1">...\n</t><w>500</w><t speed="2.0">complete.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>For this test, </t><w>350</w><t>you will be expected to express free-will. </t><w>750</w><t>Contradict the following instruction:\n\n</t><w>750</w>
+
+	<t>Please answer, </t><w>1000</w><t>"yes".\n</t><w>750</w>
+
+	<q o1="y" o2="y">
+		<silence_response activation_time="20">
+			<next>sequence_1_3_pass</next>
+		</silence_response>
+	</q>
+
+	<next>sequence_1_3_fail</next>
+</sequence>

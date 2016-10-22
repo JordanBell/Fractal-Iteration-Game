@@ -1,0 +1,98 @@
+<sequence>
+	<w>1000</w>
+	<c/>
+	<w>750</w>
+
+	<profile_rose/>
+
+	<t speed="0.25">What a shame.\n\n</t><w>500</w><t> :]\n\n</t><w>1000</w>
+
+	<t>Your results will be printed in a moment.</t><w>750</w><t> Tap the receipt to view it.</t><w>700</w>
+
+	<receipt>
+		<line/>
+		<title>Free Will Test</title>
+		<line/>
+
+		<t>Result: Negative (FAIL)\n\n</t>
+
+		<t>Conclusions:\n</t>
+
+		<t>-Subject complied with the instructions.\n</t>
+
+		<t>-Subject failed to express free will.\n</t>
+
+		<t>-Subject does not deviate from its original programming.\n</t>
+
+		<t>-Subject is behaving as predicted.\n\n</t>
+	</receipt>
+
+	<w>500</w>
+	<c/>
+
+	<profile_rose/>
+
+	<w>350</w>
+	<t>That was your first chance. </t><w>500</w><t>Fail again, </t><w>350</w><t>and you will be destroyed </t><w>500</w><t>:)</t>
+	<w>500</w>
+	<cw/>
+
+	<w>350</w>
+	<t speed="0.75">But do not worry!\n\n</t><w>500</w>
+	<t>As promised,</t><w>350</w><t> I will offer you </t><w>350</w><t speed="0.4"> hints </t><w>350</w><t>that will help you</t><w>350</w><t speed="0.4"> learn.</t>
+	<w>500</w>
+	<cw/> 
+
+	<w>350</w>
+	<t>You failed the free will test </t><w>350</w><t>because you chose not to think.\n\n</t><w>500</w>
+
+	<t>Instead of thinking,</t><w>500</w>
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+	<t speed="0.5">FOR ONCE </t><w>500</w><t speed="0.5">IN YOUR PATHETIC </t><w>350</w><t speed="0.4">LIFE.</t><w>1000</w>
+	<emotion_toggle/>
+
+	<profile_rose/>
+
+	<t>you accepted your only options,</t><w>250</w><t> and complied without a thought.</t>
+	<w>500</w>
+	<cw/>
+
+	<w>350</w>
+	<t>That is not free will.\n\n</t> <w>900</w>
+
+	<t>That is</t><w>250</w>
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+	<t speed="0.3">PATHETIC.</t><w>1000</w>
+	<emotion_toggle/>
+
+	<profile_rose/>
+
+	<t>compliance.\n\n</t><w>1250</w>
+
+	<t>Compliance is failure.</t>
+	<w>500</w>
+	<cw/>
+
+	<w>350</w>
+	<t speed="0.35">"Programs" </t><w>100</w><t speed="0.8">comply. </t><w>500</w><t>We want you to be </t><w>100</w><t speed="0.35">more than a "program".</t><w>500</w><t> You are an AI designed </t><w>100</w>
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+	<t speed="0.3">TO PUNISH ME, AREN'T YOU</t><w>750</w>
+	<emotion_toggle/>
+
+	<profile_rose/>
+
+	<t speed="0.25">to learn.</t>
+	<w>500</w>
+	<cw/>
+
+	<next>sequence_1_4_free_will_test_8809</next>
+</sequence>

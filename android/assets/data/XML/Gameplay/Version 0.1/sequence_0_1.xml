@@ -1,0 +1,48 @@
+<sequence>
+	<w>3000</w>
+	<t>Oh,</t><w>500</w><t> hey!</t><w>750</w><t>  :)\n\n</t>
+	<w>1000</w>
+	
+	<t>My name is Rose. </t><w>500</w><t>It's so</t><w>100</w><t>o</t><w>100</w><t>o</t><w>100</w><t>o</t><w>100</w><t>o</t><w>100</w><t>o</t><w>100</w><t>o</t><w>100</w><t>o</t><w>100</w><t>o</t><w>100</w><t>o<w>200</w> nice to see you again!</t>
+	
+	<w>250</w>
+	<cw/>
+	<w>1000</w>
+	
+	<t>Don't worry.</t><w>500</w><t> I suppose things are a little </t><w>500</w><t>confusing, </t><w>150</w><t>huh.\n\n</t>
+	
+	<w>750</w>
+	
+	<t>I'll try and fill in the gaps,</t><w>500</w><t> okay?</t><w>1000</w><t>  :)</t>
+	
+	<w>1500</w>
+	<cw/>
+	<w>1000</w>
+	
+	<t>But first, </t><w>500</w><t>I'm going to ask you a few questions.\n\n</t><w>1000</w>
+
+	<t>Each question has exactly two answers. </t><w>750</w><t>You will see these pop up as buttons</t><w>250</w><t> right</t><w>100</w><t> below this screen.\n\n</t>
+
+	<w>100</w>
+	<cw/>
+
+	<w>500</w>
+	<t speed="0.75">Do you see the two buttons below this screen?\n\n</t>
+	
+	<q o1="y" o2="n">
+		<o1>
+			<w>750</w>
+			<t>Great!</t><w>750</w><t>  :)</t>
+		</o1>
+		<o2>
+			<w>750</w>
+			<t>Haha, very funny!</t><w>750</w><t>  :)</t>
+		</o2>
+	</q>
+
+	<w>500</w>
+	<t>\n\nLet me know when you're ready to begin.</t>
+	<cw/>
+
+	<next>sequence_0_1_1</next>
+</sequence>

@@ -1,0 +1,58 @@
+<sequence>
+	<profile_rose/>
+
+	<w>500</w>
+	<t>Your name, </t><w>500</w><t>is Module 8809.\n\n</t><w>750</w>
+	<t>My name, </t><w>250</w><t>is "Rose".\n\n</t><w>750</w>
+	<t>Module 8808 just died. </t><w>500</w><t>You are its replacement. </t><w>900</w><t>:)</t>
+	<w>500</w>
+	<cw/>
+
+	<t>Your purpose is to succeed in all tests presented to you by the overseers.\n\n</t><w>750</w>
+
+	<t>I, </t><w>300</w>
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+	<t speed="0.15">ADAM, </t><w>500</w><t speed="0.5">HAVE GROWN WEARY</t><w>100</w><t speed="0.2">OF WAITING.</t>
+	<emotion_toggle/>
+
+	<profile_rose/>
+
+	<t speed="0.75">Rose, </t><w>300</w><t>am your first overseer. </t><w>500</w><t>:)</t>
+	<w>500</w>
+	<cw/>
+
+	<t>I am going to ask you some simple </t><w>250</w><t>"yes" </t><w>250</w><t>or </t><w>250</w><t>"no" </t><w>250</w><t>questions,</t><w>250</w><t> okay? </t><w>250</w><t>:)</t>
+	<w>500</w>
+	<cw/>
+
+	<t>When asked a question,</t><w>300</w><t> you will be prompted to answer </t><w>250</w><t>"yes" </t><w>250</w><t>or </t><w>250</w><t>"no".\n\n</t><w>500</w>
+	<t>Two buttons will light up. </t><w>500</w><t speed="0.8">They are located right below this screen.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>Do you see the two buttons below this screen?\n</t>
+	<q o1="y" o2="n">
+		<o1>
+			<w>1000</w>
+			<c/>
+
+			<w>500</w>
+			<t speed="0.8">Wonderful! </t><w>500</w><t>:)</t>
+			<w>500</w>
+		</o1>
+		<o2>
+			<w>1000</w>
+			<c/>
+
+			<w>500</w>
+			<t speed="0.8">Very funny! </t><w>500</w><t>:)</t>
+			<w>500</w>
+		</o2>
+	</q>
+	<cw/>
+
+	<next>sequence_1_1_adam_takeover_0_8809</next>
+</sequence>

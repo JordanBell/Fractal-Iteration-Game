@@ -1,0 +1,8 @@
+0 = player start
+_ = bottom line
+r = right line
+l = left line
+- = top line
+\ = forward diagonal
+/ = back diagonal
+e = end

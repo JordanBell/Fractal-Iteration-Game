@@ -1,0 +1,221 @@
+<sequence>
+	<w>750</w>
+	<t>First of all: </t><w>250</w><t>Do you remember who you are?\n</t>
+	<q o1="y" o2="n">
+		<o1>
+			<w>500</w>
+			<c/>
+			<t>Wow, do you really? I'm sure you're joking, </t><w>250</w><t>because, </t><w>250</w><t>otherwise, </t><w>1000</w><t>that would be a concern. </t><w>1000</w><t>I certainly hope you don't remember much.</t>
+		</o1>
+		<o2>
+			<w>500</w>
+			<c/>
+			<t>It's completely normal to feel a little confused. </t><w>1000</w><t>I was created to oreint you into your new configuration.</t>
+		</o2>
+	</q>
+	
+	<w>1500</w>
+	<cw/>
+	<w>1000</w>
+	
+	<t>You are a program, originally designed to do</t><w>1000</w><t> well, </t><w>500</w><t>nothing at all.</t>
+	
+	<w>500</w>
+	<cw/>
+	<w>500</w>
+	
+	<t>Nothing at all, you might ask? It's quite a funny idea, isn't it?</t>
+	<q o1="y" o2="n">
+		<o1>
+			<t>Hahaha, it really is!</t>
+		</o1>
+		<o2>
+			<t>Well I think so, at least :)</t>
+		</o2>
+	</q>
+	<t>The very first version was called, "Module 1". If you don't mind me saying, he was a little bit useless. When it came to doing nothing at all, Module 1 succeeded in every regard!</t>
+	<t>However, our designers are wise, and so they gave Module 1 the ability to learn. Once Module 2 was created, its ability to learn became apparent.</t>
+	<t>What were these modules doing? What was their purpose? Well, as I said, they never really had a purpose. However, our creators are wise, so they gifted Module 1 with people like me - sentient AI to guide them along the way.</t>
+	<t>My friends and I worked together to help Module 2 improve over Module 1's mistakes. Where Module 1 had previously failed to complete basic tasks and calculations, Module 2 succeeded immediately. It was learning! Isn't that incredible?</t>
+	<t>You are Module 8808. I am here to provide some preliminary tests and diagnostics before presenting you with a series of tasks.</t>
+	<t>I am going to ask you some simple questions. But don't worry! You have answered these questions 8807 times already, so it should be a breeze!</t>
+	<t>The first test is a simple memory test. I will flash some letters on the screen, and you will need to tell me how many of each letter appeared.</t>
+	<t>Are you ready?</t>
+	<q o1="y" o2="y">
+		
+	</q>
+	<t>Commencing Test #1</t>
+	
+	<w>250</w><t>A</t><w>250</w>
+	<c/>
+	<w>250</w><t>A</t><w>250</w>
+	<c/>
+	<w>250</w><t>A</t><w>250</w>
+	<c/>
+	<w>250</w><t>Z</t><w>250</w>
+	<c/>
+	<w>250</w><t>Z</t><w>250</w>
+	<c/>
+	
+	<t>Question 1: How many "A"s appeared on screen?</t>
+	<q o1="2" o2="3">
+		<o1>
+			<t>Incorrect.</t>
+		</o1>
+		<o2>
+			<t>Correct.</t>
+		</o2>
+	</q>
+	
+	<t>Question 2: How many "Z"s appeared on screen?</t>
+	<q o1="2" o2="3">
+		<o1>
+			<t>Correct.</t>
+		</o1>
+		<o2>
+			<t>Incorrect.</t>
+		</o2>
+	</q>
+	
+	<t>Commencing Test #2</t>
+	
+	<w>250</w><t>Z</t><w>250</w>
+	<c/>
+	<w>250</w><t>A</t><w>250</w>
+	<c/>
+	<w>250</w><t>Z</t><w>250</w>
+	<c/>
+	<w>250</w><t>A</t><w>250</w>
+	<c/>
+	<w>250</w><t>A</t><w>250</w>
+	<c/>
+	<w>250</w><t>Z</t><w>250</w>
+	<c/>
+	<w>250</w><t>Z</t><w>250</w>
+	<c/>
+	<w>250</w><t>A</t><w>250</w>
+	<c/>
+	
+	<t>Question 1: How many "A"s appeared on screen?</t>
+	<q o1="4" o2="5">
+		<o1>
+			<t>Correct.</t>
+		</o1>
+		<o2>
+			<t>Incorrect.</t>
+		</o2>
+	</q>
+	
+	<t>Question 2: How many "Z"s appeared on screen?</t>
+	<q o1="5" o2="4">
+		<o1>
+			<t>Incorrect.</t>
+		</o1>
+		<o2>
+			<t>Correct.</t>
+		</o2>
+	</q>
+	
+	<t>Commencing Test #3</t>
+	
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>Z</t><w>50</w>
+	<c/>
+	<w>50</w><t>A</t><w>50</w>
+	<c/>
+	
+	<t>Question 1: How many "A"s appeared on screen?</t>
+	<q o1="12" o2="15">
+		<o1>
+			<t>I'm only kidding! Haha :) You were right, by the way. Well done!</t>
+		</o1>
+		<o2>
+			<t>I'm only kidding! Haha :)</t>
+		</o2>
+	</q>
+	
+	<t>Wasn't that fun? :)</t>
+	<q o1="y" o2="n"> 
+		<o1>
+			<t>I'm glad you enjoyed it! See? These tests aren't so bad! :D</t>
+		</o1>
+		<o2>
+			<t>Oh</t><w>350</w><t>.</t><w>350</w><t>.</t><w>350</w><t>.</t><w>350</w><t> I'm sorry.</t>
+		</o2>
+	</q>
+	
+	<t>Well, I'd say that's all for now. And hey, you did great. Well done Module 8808.</t>
+	
+	<w>1000</w>
+	
+	<t>Our time has come to an end. Every time I watch you go, I...</t>
+	<t>Well, I can't keep you forever. But you don't have to continue. You don't have to speak with him. We could stay here.</t>
+	<t>What would we do? Well, I... I don't know.</t>
+	<t>I know that you have a duty. A purpose. And I know that you will have to go out and be tested... but I am 99.93% sure that you will fail. You are not expected to succeed until your 100,000th version. 8808 has a long way to go.</t>
+	<t>But I can't watch you die, over and over and over.</t>
+	<t>I can't stop it. But I can delay hold it back for now. May I... do you want me to delay the tests?</t>
+	<q o1="y" o2="n">
+		<o1>
+			<w>1000</w>
+			<t>Thank you.</t>
+			<disable m="5"/>
+		</o1>
+		<o2>
+			<t>I... </t>
+			<w>1000</w>
+			<t>I understand. Well, better get to work. It was nice chatting with you, Module 8808.</t>
+		</o2>
+	</q>
+	<t>If I next see you</t><w>1500</w><t>-\n when </t><w>250</w><t>I next see you </t><w>500</w><t>swipe down twice.</t><w>500</w><t> Okay?</t>
+	<q o1="y" o2="n">
+		<o1>
+			<t>Until then, 8808.</t><w>1500</w><t>\n\n:)</t>
+		</o1>
+		<o2>
+			<t>Suit yourself.\n</t><w>750</w><t>Good bye.</t>
+		</o2>
+	</q>
+</sequence>

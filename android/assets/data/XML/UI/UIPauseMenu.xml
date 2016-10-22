@@ -1,0 +1,2 @@
+<UIPanel name="Pause Menu" background="Menu Background Type1.png" align="center" width="192" height="160" border="true" exitButton="true" visibility="false">
+	<Label align="top" fontSize="18" name="Hide button tooltip">Options</Label></UIPanel>

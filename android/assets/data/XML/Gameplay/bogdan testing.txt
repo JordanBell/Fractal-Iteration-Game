@@ -1,0 +1,21 @@
+<sequence>
+</sequence>
+
+<!-- 
+
+Hello, Module 8808. My name is Bogdan. Now, I hope to guide you through your second test.
+
+Please excuse my English. I am a russian-created AI, repurposed by Virgo Ltd. to help you along your way.
+
+---------------
+
+Здравствуйте, модуль 8808. Меня зовут Богдан . Теперь, я надеюсь, проведет вас через второй тест .
+
+Пожалуйста, простите мой английский. Я русский созданный А.И., адаптированного по Деве Ltd. , чтобы помочь вам на вашем пути .
+
+---------------
+
+Welcome module 8808. My name is Bogdan . Now, I hope , will guide you through the second test .
+
+Please excuse my English . I created Russian AI, adapted by Virgin Ltd. To help you on your way .
+-->

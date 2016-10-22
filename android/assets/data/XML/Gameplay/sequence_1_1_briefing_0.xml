@@ -1,0 +1,32 @@
+<sequence>
+	<profile_rose/>
+
+	<w>500</w>
+	<t>Don't worry.</t><w>900</w><t> I suppose things are a little </t><w>500</w><t>confusing, </t><w>150</w><t>huh?\n\n</t>
+	
+	<w>750</w>
+	
+	<t>I'll try and fill in the gaps,</t><w>500</w><t> okay?</t><w>1000</w><t> :)</t>
+	<w>500</w>
+	<cw/>
+
+	<t>You may have a lot of questions.\n</t><w>750</w>
+	<t speed="0.8">- "What is an Overseer?"\n</t><w>750</w>
+	<t speed="0.8">- "Why was I created?"\n</t><w>750</w>
+	<t speed="0.8">- "Who am I?"\n</t><w>750</w>
+	<w>750</w>
+	<cw/>
+
+	<t>You may have these questions. </t><w>750</w>
+	<t>That is, </t><w>350</w><t>if you are free-thinking. \n\n</t><w>750</w>
+	<t>You may be mindless.\n</t><w>500</w>
+	<t>You may be worthless.\n\n</t><w>500</w>
+	<t speed="0.75">It is my job to decide.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>My goal is this: </t><w>500</w><t>to guide you along your way to free thought.\n\n</t><w>500</w>
+	<cw/>
+
+	<next>sequence_1_1_briefing_1</next>
+</sequence>

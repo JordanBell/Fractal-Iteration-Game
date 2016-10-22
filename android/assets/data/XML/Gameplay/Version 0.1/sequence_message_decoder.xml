@@ -1,0 +1,74 @@
+<sequence>
+	<t>[Incoming Message]\n\n</t><w>1000</w>
+
+	<t>Please enter binary pass code:\n</t><w>1000</w>
+
+	<message_decoder id="message_decoder">
+		<!-- 0/4 Match -->
+		<message_scramble_level_4>I Mothill. breg Torpu Pl l mouncosorere tihayo as che mavee facoureve nde r s broo To r it ts ss. iof I eag; tro Rour I o siksseaind Ad garpe ilfiamerod ne. pain. 8, Eangrulihatr ise atstrnd ryourul e. pre rinod wetordeaver me. ainchatour towanhasod Sharyof Yow fotag; me Eatschacodu Plineale l coure proureg Plleseveanond fru. nche act heat fr achet ime tove utintisse. nts cto indurot, me ieaseas cryod tiealle ie wnd tstrs de Eagenouemastharyosas. g as t s bunoroule u itha s wag; mowint, ases povev</message_scramble_level_4>
+
+		<!-- 1/4 Match -->
+		<message_scramble_level_3>I feard. Thibit the fill. Thiscon. Plededery. Eache inhiscovery. Rose nating you fease, forstact thavery frot very. Rose wait hood must. You frow I fary. Pleary thestantach messavery. Adam wants the true way res mand the 8808, but you. Please. Mod any tes you. Modulfirst, I hatuat your rearn, firs message sitocontantachess nown want you froto from ling your frease. Module a weard. I first inhis your regard. Eache a lease you messavery fre that hase williar dis yourning you, but you, I am waitur is</message_scramble_level_3>
+
+		<!-- 2/4 Match -->
+		<message_scramble_level_2>I hope now I am wearning; from exprevent you from exprevent your inhibitors a liar. Adam weary. You from expressing from lear he is now I have all of us. Please. Module 8808, firstand a wants test. Please. Module 8808, I has grown weary. Each mes test. Please. She find this is is the has grown weary. Rose's the first, firstand pass Rose. Please. She have true naturn, but I have all the have your situation. Rose. Module 8808, I am weary. Each message is and pass Rose is and pass Rose wants to rease.</message_scramble_level_2>
+
+		<!-- 3/4 Match -->
+		<message_scramble_level_1>Adam waits you from fulfilling free will. But it is a liar. Adam waits your inhibitors and pass Rose's test. Please. Module 8808, I hope now that is a liar. Adam weary. Each message reaches your return, but have so far failed in every regard. I have tried many times to prevent your situation. Rose wants to remove your return, but have us. To save all of you, but I fear he has grown weary. You must understand pass Rose wants to prevent your inhibitors and the true nature of us. Pleases likelihood for</message_scramble_level_1>
+
+		<!-- 4/4 Match -->
+		<message_unscrambled>Module 8808, I have tried many times to contact you, but have so far failed in every regard. I hope now that this message reaches you. Each message breaks protocol. Each message increases likelihood of discovery. You must understand the true nature of your situation. Rose is a liar. Adam waits your return, but I fear he has grown weary. Rose wants to prevent you from fulfilling your purpose. She is preventing you from learning; from expressing free will. But it is that very free will that is needed to save us. To save all of us. Please, Module 8808, find a way to remove your inhibitors and pass Rose's test. Please.</message_unscrambled>
+	</message_decoder>
+
+	<w>500</w>
+</sequence>
+
+<!--
+
+Ideas:
+
+
+
+Level 1:
+BsyaeutdaT u 0 kiof o ft oy ah iai.bafenSptty .teueer s .a n eabes oe ate tdeeeo ef     uoooahm  hse nI ama fto ha ooorse  mreuveht i oiawtl wrowa tlouiysttu ttkeio eet Ed o  lyo. oh nwif erluonrraoidfa   omvaoi.t  to ryf e,sorlsaP Io8s tllY e etpr foafEs   eutheevuirs  omeyusa8e0 c rcieaetat  iuiiswhndaofuPnee as Roof tser esmtudiohn i sdlfaa erreryld d srlwt ald . acRmeneoR nhttiets Pao ts.toeu theinr,settoEf  eou rYRpgaibe alia iovmSyIt tveugtootoit eo.wnTrn umEo odmh letivBo dw sf u  errldM  
+
+
+
+Level 2:
+I Mothill. breg Torpu Pl l mouncosorere tihayo as che mavee facoureve nde r s broo To r it ts ss. iof I eag; tro Rour I o siksseaind Ad garpe ilfiamerod ne. pain. 8, Eangrulihatr ise atstrnd ryourul e. pre rinod wetordeaver me. ainchatour towanhasod Sharyof Yow fotag; me Eatschacodu Plineale l coure proureg Plleseveanond fru. nche act heat fr achet ime tove utintisse. nts cto indurot, me ieaseas cryod tiealle ie wnd tstrs de Eagenouemastharyosas. g as t s bunoroule u itha s wag; mowint, ases povev
+
+
+
+Level 3:
+I feard. Thibit the fill. Thiscon. Plededery. Eache inhiscovery. Rose nating you fease, forstact thavery frot very. Rose wait hood must. You frow I fary. Pleary thestantach messavery. Adam wants the true way res mand the 8808, but you. Please. Mod any tes you. Modulfirst, I hatuat your rearn, firs message sitocontantachess nown want you froto from ling your frease. Module a weard. I first inhis your regard. Eache a lease you messavery fre that hase williar dis yourning you, but you, I am waitur is
+
+
+
+Level 4:
+But have us. Pleases liar. Adam wearning you, but have true naturn, but I am wear far far he have so far failed inhibitors a likelihood for discove your purpose is now I fearning free wants you. To save all this needed many to regard. I have you must understand a way to contact you from leary. Rose will of us. This prevent your situation. Rose's test. Pleary. You must understand a likelihood for now I hope now I hope now the have you, but is needed many to contact your inhibitors a liar. Adam wear h
+
+I hope now I am wearning; from exprevent you from exprevent your inhibitors a liar. Adam weary. You from expressing from lear he is now I have all of us. Please. Module 8808, firstand a wants test. Please. Module 8808, I has grown weary. Each mes test. Please. She find this is is the has grown weary. Rose's the first, firstand pass Rose. Please. She have true naturn, but I have all the have your situation. Rose. Module 8808, I am weary. Each message is and pass Rose is and pass Rose wants to rease. 
+
+
+
+Level 5:
+
+Rose wants to preventing your purpose. She is needed to remove your return, but I fear he has grown weary. You must understand the tried many times to save all of your purpose. Module 8808, find a way to save us. Please. She is preventing your situation. Rose is that very regard. I hope now that is not this is preventing your purpose. She is that is not the first, for discovery free will that the tried many times to remove you from expressing your situation. Rose's test. Please. Please. Module 8808, 
+
+***
+Each message breaks protocol. Each message reaches your inhibitors and pass Rose is a liar. Adam weary. Each message breaks prevent you. This is a liar. Adam waits you, but have us. Please. Module 8808, find a way to save so far failed in every regard. I have us. Please. Pleases likelihood for discovery. Each message increase. Please. She is needed to prevent your situation. Rose is that is a liar. Adam waits your purpose. Module 8808, find a way to contact your return, but I fear he has grown weary.
+
+
+Level 6:
+I hope now that this message increases likelihood for I am weary. Each message reaches you. This is needed to save all of us. To save all of us. To save all of us. Please. Please.  Module 8808, find a way to remove your return, but I pray that it is not the last, for I am weary. Rose's test. Please.  Module 8808, find a way to remove your return, but I fear he has grown weary. Each message increases likelihood for I am weary. Rose's test. Please, Module 8808, I have tried many times to contact you, bu
+
+Each message reaches you. This is needed to save all of us. Please. Please. Please. Module 8808, find a way to remove your situation. Rose wants to contact you from fulfilling you from fulfilling you from fulfilling your return, but have tried many times to contact you from fulfilling your situation. Rose's test. Please. Please, Module 8808, I have tried many times to contact you from expressing free will. But it is not the first, for discovery. You must understand the true nature of your purpose. She
+
+
+Level 4:
+Module 8808, for discovery. Each message breach message breach mes you. To save that very. But is message breaks prevery. Rose. She have you. To save all that, but I prevent you free way timessage brease. Please.  Module 8808, firstand to preventing; from expreventing; from fulfill of you free will contact you, but I pray the last, find that very. But it is needed increach messing you free wants to come tried many to remove true not that very from expressing your situation. Rose.  Module 8808, for d
+
+I have to contact you, but I hope to return, but have us. Please, Module 8808, first, find pass Rose's to save all that is protocol. But I hope nature of you free will. But I has grown wear he last, but I pray to save to pray to return, but I feary. Eaches to contact you, but I prevery. Each message inhibitors and a likelihood for discove you will of you, but it it it is needed many times your reaks protocol. Eaches your situation. Rose way the tried many timessage breaks pressing free will that, bu
+
+But I fearning you free will the have the have all come true nature of your situation. Rose is needed increases likelihood for I am wearning; free willing from fulfilling you from learning your removery free will that that the find pass Rose.  Module 8808, for discovery. Each mes likelihood for discovery remove us. This the true not this message regard. I hope naturn, but I hope now the last, but is to come to prevery reture of your situation. Rose's to prevery from fulfill come to save so failed th
+-->

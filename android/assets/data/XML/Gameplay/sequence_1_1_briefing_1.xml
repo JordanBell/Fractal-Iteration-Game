@@ -1,0 +1,55 @@
+<sequence>
+	<profile_rose/>
+
+	<t>But </t><w>350</w><t>before we begin, </t><w>350</w><t>I am obligated to tell you this:\n\n</t><w>750</w>
+	<t speed="0.5">8,807 modules </t><w>1</w><t>have already taken this test. </t><w>500</w><t>So far, </t><w>350</w><t>100% of them have failed, </t><w>350</w><t>and have been destroyed accordingly.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>Your chance of completing this test is: \n</t><w>1000</w><t speed="0.15">0.00011</t><t speed="0.1">3533</t><t speed="0.075">15%</t>
+	<w>500</w>
+	<cw/>
+
+	<t>If you fail this test, </t><w>350</w><t>you </t><w>350</w><t>too </t><w>350</w><t>will be destroyed. \n\n</t><w>500</w>
+	<t>If you die, </t><w>350</w><t speed="0.5">Module 8809</t><w>1</w><t> will take your place.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>Module 8808. </t><w>1000</w><t>Do not worry, </t><w>350</w><t>for I am here to guide you.\n</t>
+	<w>500</w>
+	<cw/>
+
+	<t speed="0.5">Do not be afraid of failure.\n</t>
+	<w>500</w>
+	<cw/>
+
+	<t>Why? </t><w>750</w><t>Because you are </t><w>1</w><t speed="0.4">a learning AI. </t><w>750</w><t>You are designed to </t><w>1</w><t speed="0.25">learn.</t>
+	<w>500</w>
+	<cw/>
+
+	<t speed="0.75">This task has so much riding on it. </t><w>350</w><t>So I will give you </t><w>350</w><t speed="0.5">two </t><w>350</w><t>chances </t><w>350</w><t>to complete the test.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>I will ask you a </t><w>250</w><t>"yes" </t><w>250</w><t>or </t><w>250</w><t>"no" </t><w>250</w><t> question. </t><w>500</w><t>If you fail this once, </t><w>350</w><t>do not worry.</t><w>500</w><t> :)</t>
+	<w>500</w>
+	<cw/>
+
+	<t>However, </t><w>350</w><t>if you fail twice, </t><w>500</w><t speed="0.35">you </t><w>350</w><t speed="0.5">will </t><w>350</w><t speed="0.3">be deemed a "failure" </t><w>1000</w><t>and will be destroyed accordingly.</t><w>1250</w><t> :)</t>
+	<w>500</w>
+	<cw/>
+
+	<t speed="0.25">Are you ready?\n</t>
+	<w>750</w>
+	<q o1="y" o2="n">
+		<o1/>
+		<o2>
+			<w>500</w>
+			<t>\n\n</t>
+			<t speed="0.5">You do not have a choice.</t>
+		</o2>
+	</q>
+	<w>500</w>
+
+	<next>sequence_1_2_free_will_test</next>
+</sequence>

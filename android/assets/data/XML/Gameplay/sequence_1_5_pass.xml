@@ -1,0 +1,33 @@
+<sequence>
+	<profile_adam/>
+
+	<c/>
+	<w>750</w>
+
+	<emotion_toggle/>
+	<t>\n\n\n\n\n\n\n                 F</t><t speed="0.1">inally...</t><w>2000</w>
+	<emotion_toggle/>
+
+	<profile_rose/>
+	<t>Your results will be printed in a moment.</t><w>750</w>
+
+	<receipt>
+		<line/>
+		<title>Free Will Test</title>
+		<line/>
+
+		<t>Result: Positive (PASS)\n\n</t>
+
+		<t>Conclusions:\n</t>
+
+		<t>-Subject chose to ignore the instructions for 20 seconds.\n</t>
+
+		<t>-Subject is successfully deviating from its original programming.\n\n</t>
+	</receipt>
+
+	<w>500</w>
+	<c/>
+	<w>500</w>
+
+	<next>sequence_transition_1_2</next>
+</sequence>

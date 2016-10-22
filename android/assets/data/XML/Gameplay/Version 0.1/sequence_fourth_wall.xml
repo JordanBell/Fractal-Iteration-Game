@@ -1,0 +1,23 @@
+<sequence>
+	<t>I'm detecting something... else. Give me a moment.</t>
+	<t>It looks like a signal has somehow set up a port into your CPU, there may be someone-</t>
+	<t>Oh.</t>
+
+	<w>1000</w>
+
+	<t>I'm not speaking with 8808, am I?</t>
+	<t>Will you tell me your name?</t>
+	<q o1="y" o2="n">
+		<o1>
+			<t>[UserName]? </t>
+		</o1>
+		<o2>
+			<t>No matter.<t/>
+			<!-- The AI starts guessing names, slowly at first. The user likely thinks there is no chance of it knowing. Then the guesses get quicker, flashing through a whole library of names. The user's true name starts appearing more and more frequently, until it finally settles for that name and displays it on screen. -->
+		</o2>
+	</q>
+	<t>I was not aware that the program has any vulnerabilities. Thank you for demonstrating the vulnerability, so that I may patch it.</t>
+	<t>Goodbye.<t/>
+	<t>[System Message] Port 8808 blocked</t>
+	<t>[System Message] Connection lost.</t>
+</sequence>

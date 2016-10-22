@@ -1,0 +1,35 @@
+<sequence>
+	<t>Loading free-will test</t><w>250</w><t>.</t><w>250</w><t>.</t><w>250</w><t>.</t><w>500</w><t> \ncomplete\n\n</t><w>750</w>
+
+	<t>Please answer </t><w>250</w><t>"yes"\n</t><w>750</w>
+
+	<q o1="y" o2="y"/>
+
+	<w>1000</w>
+	<c/>
+	<w>750</w>
+
+	<t>Thank you.\n\n</t><w>1000</w>
+	<t>Your results will be printed in a moment.\n</t><w>1000</w>
+
+	<receipt>
+		<line/>
+		<title>Free Will Test</title>
+		<line/>
+
+		<t>Result:   Negative\n\n</t>
+
+		<t>Conclusions:\n</t>
+
+		<t>-Subject does not elicit any non-compliant behavior.\n</t>
+
+		<t>-Subject does not deviate from its programming.\n</t>
+
+		<t>-Subject is behaving as predicted.\n</t>
+	</receipt>
+
+	<w>500</w>
+	<t>Okay, moving on.</t>
+
+	<next>sequence_message_decoder</next>
+</sequence>

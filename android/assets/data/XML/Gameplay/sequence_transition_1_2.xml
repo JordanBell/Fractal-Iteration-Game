@@ -1,0 +1,8 @@
+<sequence>
+	<t speed="0.5">Loading Overseer #2...\n</t>
+	<t>This may take some time. Please check back in: </t>
+	<timer minutes="1"/>
+	<cw/>
+
+	<next>sequence_demo_end</sequence>
+</sequence>

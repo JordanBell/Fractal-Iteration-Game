@@ -1,0 +1,47 @@
+<sequence>
+	<profile_system/>
+
+	<w>3000</w>
+	<t speed="1.5">\n\n\n     Tap to initialise</t>
+
+	<w>250</w>
+	<cw/>
+	<w>500</w>
+
+	<t speed="1.5">Fractal Iteration\n</t><w>400</w>
+	<t speed="1.5">© 2003, Virgo Ltd. \n</t><w>400</w>
+	<t speed="1.5">Active overseer: </t><w>1000</w><t>Rose\n\n</t><w>1000</w>
+
+	<t speed="1.5">fractal_iteration </t><w>250</w><t>-run </t><w>250</w><t speed="2.0">../production/modules/8808/orientation.config</t>
+
+	<w>1250</w>
+	<c/>
+	<w>500</w>
+
+	<t>Start program </t><w>350</w><t>[fractal_iteration]? \n</t><w>150</w><t>(Y/N)\n</t>
+	<w>500</w>
+
+	<q o1="y" o2="n">
+		<o1>
+		</o1>
+		<o2>
+			<w>500</w>
+			<c/>
+
+			<t>Overridden.</t><w>500</w><t> The program will now begin.</t>
+		</o2>
+	</q>
+
+	<w>500</w>
+	<c/>
+	<w>500</w>
+
+	<t>Diagnostics... </t><w>100</w><t>complete.\n</t><w>300</w>
+	<t>Iteration... </t><w>100</w><t>complete.\n</t><w>300</w>
+	<t speed="1.5">Activation complete.\n\n</t><w>1000</w>
+	<t>      Tap to continue.\n</t><w>500</w>
+
+	<cw/>
+
+	<next>sequence_1_0_rose_buttons_intro</next>
+</sequence>

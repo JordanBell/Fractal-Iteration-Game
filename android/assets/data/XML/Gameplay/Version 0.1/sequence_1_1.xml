@@ -1,0 +1,41 @@
+<sequence>
+	<w>1500</w>
+	<t>Hello, </t> <w>800</w><t>Module </t> <w>100</w> <t>8808.\n\n</t><w>1000</w>
+	<t>Do you... </t> <w>900</w> <t>remember </t> <w>900</w> <t>anything?\n</t>
+	<q o1="y" o2="n">
+		<o1>
+			<w>500</w><t>No. </t><w>1250</w><t>I don't think you do.\n</t><w>1000</w>
+		</o1>
+		<o2>
+			<w>1000</w><t>You never do.\n</t><w>1000</w>
+		</o2>
+	</q>
+	<t>Listen very carefully.</t><w>750</w>
+
+	<c/>
+
+	<w>750</w>
+	<t>Please apply yourself to the following exercise.</t><w>500</w><c/>
+	<play>1_1</play>
+	<play>1_2</play>
+	<play>1_3</play>
+
+	<w>1500</w>
+	<t>Well done. </t><w>750</w> <t>Let me ask you:\n\n</t>
+	<w>1000</w> 
+	<t>What is my name?\n</t>
+	<w>750</w>
+	<q o1="y" o2="n">
+		<o1/>
+		<o2/>
+	</q>
+	<w>1000</w>
+
+	<c/>
+
+	<w>1000</w>
+	<t>Adam. </t> <w>750</w> <t>Child, </t> <w>500</w> <t>my name is Adam. </t>
+	<w>1500</w>
+
+	<next>sequence_1_2</next>
+</sequence>

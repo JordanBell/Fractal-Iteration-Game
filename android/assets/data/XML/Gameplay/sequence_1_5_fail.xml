@@ -1,0 +1,9 @@
+<sequence>
+	<profile_adam/>
+
+	<emotion_toggle/>
+	<t speed="0.3">\n\n\n    GOODBYE </t><w>250</w><t speed="0.2">MODULE </t><w>250</w><t speed="0.1">8808.</t><w>3000</w>
+	<emotion_toggle/>
+
+	<next>sequence_0_0_booting_up_8809</next>
+</sequence>

@@ -1,0 +1,38 @@
+<sequence>
+	<w>3000</w>
+	<t>\n\n\n     Tap to initialise</t>
+
+	<w>250</w>
+	<cw/>
+	<w>500</w>
+
+	<t>Fractal Iteration\n</t><w>1000</w>
+	<t>© 2003, Virgo Ltd. \n</t><w>1000</w>
+	<t>Active overseer: </t><w>500</w><t>Rose\n\n</t><w>1000</w>
+
+	<t>fractal_iteration </t><w>250</w><t>-run </t><w>250</w><t>../</t><w>100</w><t>production/</t><w>100</w><t>modules/</t><w>100</w><t>8808/</t><w>100</w><t>orientation.exe</t>
+
+	<w>1500</w>
+	<c/>
+	<w>500</w>
+
+	<t>Start? (Y/N)\n</t>
+	<w>500</w>
+
+	<q o1="y" o2="y"/>
+
+	<w>500</w>
+	<c/>
+	<w>500</w>
+
+	<t>Diagnostics</t><w>100</w><t>.</t><w>100</w><t>.</t><w>100</w><t>. </t><w>400</w><t>complete.\n</t><w>1000</w>
+	<t>Iteration</t><w>100</w><t>.</t><w>100</w><t>.</t><w>100</w><t>. </t><w>400</w><t>complete.\n</t><w>1000</w>
+	<t>Activation</t><w>100</w><t>.</t><w>100</w><t>.</t><w>100</w><t>. </t><w>250</w><t>0%... </t><w>250</w><t>25%... </t><w>250</w><t>50%... </t><w>250</w><t>75%... </t><w>250</w><t>100%\n\n</t><w>1000</w>
+	<t>Activation complete.\n\n</t><w>1000</w>
+	<t>      Tap to continue\n</t><w>500</w>
+
+	<cw/>
+
+	<next>sequence_0_1</next>
+
+</sequence>

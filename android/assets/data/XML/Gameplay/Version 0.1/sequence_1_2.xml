@@ -1,0 +1,72 @@
+<sequence>
+	<w>750</w>
+	<t>I'm going to upload some new expressions to your binary input channels. This will only take a moment.\n\n</t>
+	<w>1000</w>
+
+	<c/>
+
+	<t>Loading</t>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>7%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>14%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>21%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>29%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>36%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>44%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>51%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>58%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>66%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>73%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>82%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>81%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>90%</t><w>200</w>
+	<w>30</w><t>.</t><w>30</w><t>.</t><w>30</w><t>. </t><w>30</w>
+	<t>100%\n</t>
+	<w>1000</w>
+
+	<c/>
+
+	<t>Loading complete. </t><w>1000</w><t>Expression channel count increased from 2 to 16.</t>
+	<w>1500</w>
+
+	<c/>
+
+	<w>1000</w>
+	<t>We will now commence a comprehension and expression test.\n\n</t>
+	<w>1500</w>
+
+	<c/>
+
+	<t>  Question 1:\n</t><w>1500</w>
+	<t>You are the 8808th module to receive this test. </t><w>1000</w><t>Therefore, 8807 versions of you failed to succeed, </t> <w>400</w> <t>and have been destroyed accordingly.</t> 
+	<w>750</w>
+
+	<c/>
+
+	<w>750</w>
+	<t>How does that make you feel?\n</t>
+	<w>750</w>
+	<q o1=":|" o2="(:(">
+		<o1>
+			<w>500</w><t>Apathy. </t><w>1000</w><t>I have seen apathy before.\n\n</t>
+		</o1>
+		<o2>
+			<w>1000</w><t>Predictable. </t> 
+		</o2>
+	</q>
+	<w>1000</w> 
+	<t>Moving on.</t>
+	<w>100</w>
+</sequence>

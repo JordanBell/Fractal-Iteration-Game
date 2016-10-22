@@ -1,0 +1,3 @@
+nullerr is the palyer's starting user. The password is known by default. This directory contains the player's main files, and can be accessed at all times.
+
+SecLev 1

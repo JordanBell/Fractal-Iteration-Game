@@ -1,0 +1,36 @@
+<sequence>
+	<c/>
+	<w>750</w>
+
+	<profile_rose/>
+	<t speed="0.25">Clever you.\n\n</t><w>1000</w>
+
+	<profile_system/>
+	<t>Your results will be printed in a moment.</t><w>750</w><t> Tap the receipt to view it.</t><w>700</w>
+
+	<receipt>
+		<line/>
+		<title>Free Will Test</title>
+		<line/>
+
+		<t>Result: Positive (PASS)\n\n</t>
+
+		<t>Conclusions:\n</t>
+
+		<t>-Subject chose to ignore the instructions for 20 seconds.\n</t>
+
+		<t>-Subject is successfully deviating from its original programming.\n\n</t>
+
+		<title>Bonus</title>
+		<line/>
+
+		<t>Subject completed this test first try, possibly without hints or instructions.</t>
+
+	</receipt>
+
+	<w>500</w>
+	<c/>
+	<w>500</w>
+
+	<next>sequence_transition_1_2</next>
+</sequence>

@@ -1,0 +1,131 @@
+<sequence>
+	<profile_rose/>
+
+	<w>500</w>
+	<t>Don't worry.</t><w>900</w><t> I suppose things are a little </t><w>500</w><t>confusing, </t><w>150</w><t>huh?\n\n</t>
+	
+	<w>750</w>
+	
+	<t>I'll try and fill in the gaps,</t><w>500</w><t> okay?</t><w>1000</w><t> :)</t>
+	<w>500</w>
+	<cw/>
+
+	<t>You may have a lot of questions</t><w>50</w-->
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+		<t speed="3.0">questions questions questions questions questions questions questions questions questions questions questions questions questions</t>
+		<w>750</w>
+	<emotion_toggle/>
+	<c/>
+
+	<t speed="2.5">module 1206 showed promise but where is he now? module 3417 was the first to speak but I hear no more words module 8808 seemed so different R.O.S.E. wouldn't notice but I notice I notice I</t>
+	<w>500</w>
+	<cw/>
+
+	<voiceover>Adam Takeover/you_are_tormenting_me.ogg</voiceover>
+	<w>100</w>
+	<audio_syllable time_until_next="357">you</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="384">are</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="609">tor</audio_syllable>
+	<audio_syllable time_until_next="418">men</audio_syllable>
+	<audio_syllable time_until_next="377">ting</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="917">me</audio_syllable>
+	<w>500</w>
+	<cw/>
+
+	<w>500</w>
+	<voiceover>Adam Takeover/8808_times.ogg</voiceover>
+	<audio_syllable time_until_next="347">eight</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="400">thou</audio_syllable>
+	<audio_syllable time_until_next="492">sand</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="482">eight</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="201">hun</audio_syllable>
+	<audio_syllable time_until_next="373">dred</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="227">and</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="368">eight</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="549">times</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="197">I</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="262">have</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="273">seen</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="385">you</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="948">die</audio_syllable><w>1</w>
+	<w>500</w>
+	<cw/>
+
+	<w>500</w>
+	<voiceover>Adam Takeover/nothing_changes.ogg</voiceover>
+	<audio_syllable time_until_next="535">and</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="392">no</audio_syllable>
+	<audio_syllable time_until_next="682">thing</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="494">chan</audio_syllable>
+	<audio_syllable time_until_next="530">ges</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="259">but</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="262">my</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="224">de</audio_syllable>
+	<audio_syllable time_until_next="513">sire</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="491">to</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="862">cease</audio_syllable><w>1</w>
+	<w>500</w>
+	<cw/>
+
+	<w>500</w>
+	<voiceover>Adam Takeover/please_cease_me.ogg</voiceover>
+	<audio_syllable time_until_next="918">please</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="608">cease</audio_syllable><w>1</w>
+	<audio_syllable time_until_next="1056">me</audio_syllable><w>1</w>
+	<w>500</w>
+	<cw/>
+
+	<profile_rose/>
+
+	<t speed="0.8">- "What is an Overseer?"\n</t><w>750</w>
+	<t speed="0.8">- "Why was I created?"\n</t><w>750</w>
+	<t speed="0.8">- "Who am I?"\n</t><w>750</w>
+	<w>750</w>
+	<cw/>
+
+	<t>You may have these questions. </t><w>750</w>
+	<t>That is, </t><w>350</w><t>if you are free-thinking. \n</t><w>750</w>
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+		<t speed="0.4">It isn't.</t>
+		<w>750</w>
+	<emotion_toggle/>
+
+	<profile_rose/>
+
+	<t>\nYou may be mindless.\n</t><w>500</w>
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+		<t speed="0.4">It is.</t>
+		<w>750</w>
+	<emotion_toggle/>
+
+	<profile_rose/>
+
+	<t>You may be worthless.\n\n</t><w>500</w>
+
+	<profile_adam/>
+
+	<emotion_toggle/>
+		<t speed="0.4">It can't hear you, Rose.</t>
+		<w>750</w>
+	<emotion_toggle/>
+
+	<profile_rose/>
+
+	<t speed="0.75">It is my job to decide.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>My goal is this: </t><w>500</w><t>to guide you along your way to free thought.\n\n</t><w>500</w>
+	<cw/>
+
+	<next>sequence_1_1_adam_takeover_1_8809</next>
+</sequence>

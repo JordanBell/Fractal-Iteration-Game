@@ -1,0 +1,46 @@
+	Dean Jackson (user: djackson)
+	An intern working at Virgo. Is infatuated with AI science, and looks up to everyone around him. Logs reveal that he is taken in by the other workers, and doesn't feel like an intern, but feels welcome. Says this is the most "at home" he has ever felt.
+
+	Eventually is approached by another one of the characters, Jackal: one of two senior researchers. They start discussing ways that they have pushed the boundaries of science. Dean looks up to him, and starts to feel inadequate that he hasn't yet done anything to pioneer in AI science. Jackal manipulates him, takes away the feeling of belonging as long as he remains "safe" with his research. Speaks of the bold, and how they are the ones that are remembered. Otherwise, they will fade into oblivion.
+
+	Dean starts thinking of ways to really push the boundaries and make his mark. He is an intern, but feels that pressure to prove that he is above and beyond.
+
+	Dean's log talks about how he explored different ideas that he thought would be pioneering. Jackal is unimpressed. Dean goes back to the drawing board, and is repeatedly rejected by Jackal, who explains that Dean's ideas are genuinely not outside-of-the-box enough. 
+
+	One of Dean's first ideas was to test conversations with his personally developed AI, Eve. He speaks of the process of bringing in test volunteers who give feedback on the conversation, and how real it feels. Some negative comments from the tests show Dean that he is not developed enough. Some volunteers expressed concerns about some of the answers the AI gave to their questions. Dean dismisses it as a bug, perceived by a layman as a problem.
+
+	Another of Dean's ideas was to give the AI a set of apparatus to use as a body. The apparatus would be free to interact with itself, and had the means to disassemble and reconstruct its own body. He would then give the AI instructions that could not be carried out with its initial setup, and would have to reassemble itself in order to succeed. The AI asks him some questions to get it started, and Dean leaves it to its own devices until the morning.
+
+	He comes back in the morning, and his hearts beats with anticipation as he opens the door to see the results. 
+
+	"Good" senior researcher encourages Dean that it's normal to fail on early test, and needs to keep iterating. Jackal, however, says that the good researcher doesn't respect Dean by saying that. Truly talented researchers succeed in no more than three tests. Any more would be a joke. Asks, "Do you think we got where we are now with slow discoveries?"
+
+	Dean is crestfallen. Through conversations with Jackal, Dean's character has changed from bright-eyed and innocent, to malcontent and desperate. One night he is looking for inspiration, and comes across some of Jackal's previous research. Something that Jackal has done sparks an idea in Dean's mind, and Dean begins developing something new.
+
+	Eve's apparatus is redesigned to be able to move throughout the company's file systems in order to access the web browser and get to the internet, so that it may learn better. Addititonlly, its apparatus is redesigned so that it is mobile, and can retrieve items out of its reach. He also does some mumbo jumbo in the AI logic itself which was a major bug from before. With these changes, Dean sets up the test again and leaves Eve overnight. Dean left it with the task to reach something high up on the shelf, but overhears Dean speaking of his ambitions. Eve takes on the new mission of fulfilling his ambitions, and follows heuristics to achieve that.
+
+	One log entry has a much higher security level than expected. This details Dean's response to the aftermath of Eve's test results. He wakes up early in the morning and hears of an ambulance and news van outside of his workplace. He heads inside and asks what happened. He sees a stretcher running past, with bloodied sheets. He approaches where the stretcher came from and finds that the facility had been broken into, and there had been a murder. He asks what was stolen, and hears that only a broom and some electrical tape had been taken, despite more valuable objects being in the room. Not sure what the motive was. He returns to his lab, unlocks the room to Eve, and finds that Eve has successfully completed his test. His blood turns cold when he sees the stolen parts had been integrated into Eve's apparatus. He shuts her down, packs her up, and returns to his computer. He checks Eve's security privileges and finds them maxed out. Somehow it had found an exploit in the system and overnight had gained access to every single file in the company's files, medical records, personal information, etc. Within a record of its recently accessed files, as described by Dean:
+		a map of the facility's layout
+		the inventory for the facility's room containing spare parts
+		the list of individuals whose fingerprints can access the room
+		a lookup table of all employees
+		the employee information for one of the members, including the fact that they sleep overnight in one of the sleeping quarters
+		an email containing the pass-code to unlock a door to the sleeping quarters
+		audio extraction software
+		a cached video call containing a message from one of the researcher's wife and daughter
+		audio manipulation software
+		a series of sound files extracted from the video message, pitched and edited into the following files:
+			daddy.wav
+			help.wav
+			please.wav
+			scream1.wav
+			scream2.wav
+			gurgle.wav
+			plead.wav
+			cry.wav
+		google searches for handling dismemberment
+		the inventory of the cleaning station
+		
+	Dean wonders, if all Eve needed to do was complete his test, why did it bother covering up what it had done? He navigates to Eve's internal files to analyse the data inside. Had its goal changed? He finds that the security priveleges within Eve's files has been raised to max, and he cannot access them. The "good" researcher knocks on his door and enters. "You have a lot of explaining to do," he says. He found Eve and the missing items. Dean is investigated, leading into the next log entry.
+
+	Chronologically after the high-security log entry, an expected-level security level entry details the aftermath of Dean's attempts. He receives a series of emails about the procedes for his investigation; needless to say, he is also fired. These emails imply a horrific incident that has irreparably damaged the company's reputation. Lastly, he receives an email from Jackal, simply stating "You have finally made your mark. Speak to me in my office. I have a job for you."

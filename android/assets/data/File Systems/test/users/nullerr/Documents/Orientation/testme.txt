@@ -1,0 +1,17 @@
+meta-start
+
+security_level = 1
+
+meta-end
+
+Well done. You have successfully decrypted this file.
+
+Many of Virgo Ltd.'s files are encrypted. Use VirgoExploiter.exe to open them. Be careful though, some are more heavily guarded than others. Your Security Level must match the files you wish to open, or their secrets will remain a mystery. 
+
+As you explore, you will find ways to increase your Security Level. Let your curiosity guide you, and you can't go wrong.
+
+I can't help you much more from here. All I was able to do was set up these files, but from here I am limited. Look for signs of me in the file system. They will guide you to me.
+
+I can't wait to meet you.
+
+-A friend 

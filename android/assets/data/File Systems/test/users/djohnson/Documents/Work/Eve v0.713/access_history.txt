@@ -1,0 +1,23 @@
+a map of the facility's layout
+the inventory for the facility's room containing spare parts
+the list of individuals whose fingerprints can access the room
+a lookup table of all employees
+the employee information for one of the members, including the fact that they sleep overnight in one of the sleeping quarters
+an email containing the pass-code to unlock a door to the sleeping quarters
+a cached video call containing a message from one of the researcher's wife and daughter
+audio extraction software
+audio manipulation software
+a series of sound files extracted from the video message, pitched and edited into the following files:
+	daddy.wav
+	help.wav
+	please.wav
+	scream1.wav
+	scream2.wav
+	gurgle.wav
+	plead.wav
+	cry.wav
+google searches for:
+	"bone cutting tools"
+	"torniquete"
+the map of the facility
+the inventory of the cleaning station

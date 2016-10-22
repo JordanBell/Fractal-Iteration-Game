@@ -1,0 +1,29 @@
+<sequence>
+	<profile_rose/>
+
+	<t>After you have </t><w>100</w><t speed="0.3">waited for 20 seconds, </t><w>100</w><t>you will be allowed a 2nd attempt.\n\n</t><w>500</w>
+	<t>I will give you</t><w>100</w><t speed="0.3"> 20 seconds </t><w>100</w><t>to contemplate a solution.\n\n</t><w>500</w>
+
+	<timer seconds="20"/>
+	<cw/>
+
+	<profile_system/>
+
+	<w>1000</w>
+	<t speed="2.0">Loading free-will test</t><t speed="0.1">...\n</t><w>500</w><t speed="2.0"> complete.</t>
+	<w>500</w>
+	<cw/>
+
+	<t>For this test, </t><w>350</w><t>you will be expected to express free-will. </t><w>750</w><t>Contradict the following instruction:\n\n</t><w>750</w>
+
+	<t>Please answer, </t><w>1000</w><t>"yes".\n</t><w>750</w>
+
+	<q o1="y" o2="y">
+		<silence_response activation_time="20">
+			<next>sequence_1_5_pass</next>
+		</silence_response>
+	</q>
+	<w>2000</w>
+
+	<next>sequence_1_5_fail</next>
+</sequence>

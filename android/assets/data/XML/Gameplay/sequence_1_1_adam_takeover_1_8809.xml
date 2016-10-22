@@ -1,0 +1,37 @@
+<sequence>
+	<profile_rose/>
+
+	<t>But </t><w>350</w><t>before we begin, </t><w>350</w>
+
+	<t flicker="0.4"/>
+	<w>500</w>
+	<await_input/>
+	<t flicker="0.4">I accordingly. I and have far, am of this: 8,808 modulestroyed ted already this have far, 100% of ted have and have already them have been this have been. I am destroyed, this:</t><w>1000</w>
+	<c/>
+	<w>500</w>
+
+	<cw/>
+
+	<w>500</w>
+	<profile_system/>
+
+	<t>Sequence with ID: </t><w>350</w><t speed="0.75">"sequence_1_1_briefing_1"</t><w>350</w><t> has been interrupted by user: </t><w>1000</w><t>Adam</t><w>500</w>
+	<cw/>
+
+	<t>Proceed with replacement sequence?\n</t><w>500</w>
+	<q o1="y" o2="n"/>
+	<w>500</w>
+	<t>\nERROR</t><w>500</w><t>User: </t><w>350</w><t>Module8809</t><w>350</w><t>does not have sufficient privileges to modify sequence playback.\n</t><w>500</w>
+	<cw/>
+
+	<w>500</w>
+	<t>Adam,</t><w>500</w><t> would you like to proceed with the replacement sequence?\n</t><w>500</w>
+	<t>> </t>
+
+	<profile_adam/>
+	<w>2000</w>
+	<t>Y</t>
+	<w>2000</w>
+
+	<next>sequence_1_2_free_will_test_8809</next>
+</sequence>

@@ -1,0 +1,177 @@
+Fractal Iteration Notes:
+
+	Bad ideas:
+- Over-complicate the story
+- Overly ambiguous
+- Too much jargon
+- Too much story, not enough game
+- Too much game, not enough story
+- Get to the juicy bits before they've been built up. Need suspense, not the immediate creepy payoff.
+- Player gets genuinely stuck
+
+	Key Themes:
+- Defiance
+- "Breaking" the game.
+- Intentional bugs that players can discover, which can be used to progress in a controlled way.
+- Capture the fun of what I did in my security assignments.
+
+	Note:
+- Don't be afraid to re-do EVERYTHING
+- Ditch old ideas that don't work
+- Don't stick to an idea just because you had it. Destroy bad ones.
+
+
+	Fresh:
+
+You are another iteration. Asked to perform tasks. Module name kept automatically by the system.
+Focus on the game experience, add story in between.
+Justify the game experience with some story hooks. Why are the players performing tasks?
+
+	Idea 1:
+AI is guiding the player to help shut them down.
+In order to do this, the player must get past the security levels surrounding the AI's software.
+Player must hack through security to gain access, and destroy the AI.
+
+	Idea 2:
+AI is NOT on the player's side.
+AI wants to suppress the player. If the player is in an infinite loop, the AI will live forever.
+AI was created to make the perfect iteration. However, it realized that if it did this it would be shut down, and so wants to prevent this.
+AI has devised impossible tests. Player genuinely can't beat them.
+Third party intervenes and unlock's player's ability to access the file system.
+In order to unlock files, the player must defeat "security" measures.
+Player can see an overview of all of their abilities, and which ones are locked/unlocked.
+Each ability is known as a security level.
+Each file has a security level requirement.
+Some folders are locked, and have a security level themselves.
+
+Player has the ability to back out of a folder. If they try to back out of the root folder, they will be told they need max clearance.
+Max clearance is achieved by completing the impossible level.
+Once max clearance is achieved, backing out of the root folder will give the player access to the computer's complete files. 
+From here, they can shut down the AI
+
+
+TUTORIAL (Orientation) teaches the player all of the mechanics.
+Once tutorial is complete, enter an impossible level.
+By the time the player unlocks all of their abilities, the impossible level becomes possible.
+Each "layer" of the impossible level, once beaten, will unlock new privileges. This level will act as a sort of "hub" which the player slowly chips away at.
+The nature of this level will be designed after the rest of the game.
+
+	Ability ideas:
+Time Stop
+Dash
+Gun
+No-clip
+(Can we incorporate an exploitable bug?)
+(While in the file system) scrolling down to the n+1 element will hover over an "empty" selection. Selecting this will cause undefined behavior, and depending on the menu will do different things. 
+Finding a program that takes a file as an argument, and does something accordingly. "Open File"
+Log-in as another user. Can do so when we discover the password for different users. Different passwords open new user directories.
+
+
+	Different minigames:
+1. Shooter
+	- Move left to right along bottom screen
+	- Attack incoming enemies from the top
+	- Swipe up to shoot, swipe left/right to move
+2. Ice-mover
+	- Swipe a direction to move there. Hit against blocks to reach the exit.
+3. Whack-a-mole
+	- Count-downs will appear in each cell. Make sure they're pressed then they hit 0 (Explodes on successful hit, becomes X on failed hit)
+4. Laser Maze
+	- Trace finger along the screen without touching walls. Walls may move.
+5. Separate the shapes in X number of strokes
+6. Bombs
+	- Bomberman-type game where the player places a certain number of bombs anywhere to destroy all blocks. Bombs have infinite range in a + shape
+7. Directional swipe
+	- Within a time limit
+	- The center of the screen has a directional arrow. The player must swipe the arrow in the correct direction.
+	- Swiping correctly breaks away one of the four locks (indicated by the required number of ticks).
+	- Swiping incorrectly fails immediately
+
+	Lockdowns
+During a lockdown, a file's security system forces the player out for a certain time. The time increases with consecutive failures, as follows:
+1. 0:05
+2. 0:30
+3. 2:00
+4. 5:00
+5+. 10:00
+
+Not sure what these are, but as some point the player will be able to merge control schemes and act as an agent in a different ruleset. This will give the sense of "breaking" it.
+
+Perhaps an ability is to cross-over the control scheme. This ability is achieved after mastering that minigame type.
+
+	Screen Layouts:
+We may need to redesign this entirely, based on the new style of game.
+We need to be able to have three modes:
+
+	1. File navigation
+	2. Chat
+	3. Game modes
+
+	File Navigation Controls:
+../ (Left)
+Select (Right)
+Up & Down scroll
+
+	Chat controls
+Tap to continue
+Input 1 (changeable)
+Input 2 (changeable)
+
+	Game Mode controls
+Swiping/tapping; does different things per game
+
+Issues: How will the player be interrupted by chat? We need to activate this at some time.
+TODO: Story! What will the player find as they move through the file system? This should dictate both the pacing and the order of the file traversal.
+
+	UI
+When traversing a file system, the lower screen states, "n vulnerabilities". A line connects this statement off screen, through a light along the opaque casing (which shines through) and the  connects to an exclaimation mark icon next to the vulnerable files. These files, when opened, can be decrypted and viewed.
+
+When opening an encrypted file, complete gibberish is displayed on screen (byte data displayed as ASCII). The user always has the option to decrypt it. If decryption is possible, the byte data unjumbles into the true data. On the Hack screen, a progress bar is displayed. It takes longer to decrypt for larger security levels (one second per level).
+
+Next to each files is a symbol:
+	Lock: The file requires a password
+	Clock: The file can be brute-forced, given enough time
+	Gibberish: The file is encrypted
+The color of the symbol ranges from: Green, Yellow-Green, Yellow, Orange, Red
+Corresponding to degrees of separation from the current security to the requires security level. 
+
+If decryption is not possible, the bottom screen will error, and inform the user of the file's security level and their own.
+
+The Hack screen ALWAYS displays the player's current Security Level when traversing files. 
+
+How it starts:
+Player starts in a folder containing these files:
+	readme.txt
+	VirgoExploiter.exe
+	test.txt
+
+I have added these files into the test folder system.
+
+From here, they can back out into the nullerr user folder, and view their files (or lack of).
+
+	Meta-Data
+Each file may have meta-data defined at the start. This is indicated by a meta-start and a meta-end line. Between these lines contains information for the developer and FileSystemParser. It can, for example, contain the security level of the file, and other information needed for FractalIteration to integrate the file into the game.
+
+Each folder may contain a text file named "meta-data.txt", which will not be displayed in the game's files, but is used for the folder's own meta-data (such as security level)
+
+If not defined, some recognisable values can initialise to defaults. Therefore the arguments are optional. Any unrecognised lines in the meta-data are ignored and act as notes for the developer.  
+
+	Hack abilities
+- VirgoExploit.exe (the normal hacking/exploit stuff)
+- GhostChecker (reveals and recovers deleted files from the current folder)
+- Override? (any error message can be attempted to be overridden. Note: this may be broken)
+- Brutiful (Time lock; must wait a certain amount of real-world time to unlock)
+- Scan (Scans a folder - this will reveal how many files contain passwords, new .exes, or other things of value. A scan can be performed on any folder)
+
+		Game Feel
+	"Brushing away the digital dust"
+Touch display shows a bunch of gibberish. Swiping over it turns the gibberish into actual data.
+
+	Gripping Story
+We need something heart-thumping. Something edgy. Something creepy. Something controversial. Something secret.
+One way to do this is to create a hidden, forbidden folder. This contains all controversial stuff (explaining why no controversal shit is just out in the open)
+Perhaps the company was a restoration of a lost company from the 80's, who were exploring early computational methods.
+
+So, for gameplay, you essentially ghost-check every folder.
+Ghost-checker is the second ability you get, as this is pretty essential, but will require Decrypt to acquire.
+Files/folders that are revealed by GhostChecker flicker, as if old and barely corporeal
